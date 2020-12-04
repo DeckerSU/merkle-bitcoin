@@ -1,0 +1,23 @@
+{
+    "main": "merkle.js",
+    "name": "merkle-bitcoin",
+    "version": "1.0.0",
+    "description": "Bitcoin-style merkle root generation.",
+    "homepage": "https://github.com/DirtyHarryDev/merkle-bitcoin",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/DirtyHarryDev/merkle-bitcoin.git"
+    },
+    "keywords": [
+        "merkle",
+        "bitcoin"
+    ],
+    "author": {
+        "name": "Dirty Harry",
+        "email": "dirtyharrydev@gmail.com"
+    },
+    "dependencies": {
+        "async": "^1.2.1"
+    },
+    "license": "MIT"
+}
